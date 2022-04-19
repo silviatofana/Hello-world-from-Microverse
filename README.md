@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello World!
 
-> Description the project.
+> My first Microverse project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- javascript,css,html
+- node.js
+- linters-config
 
 ## Live Demo (if available)
 
