@@ -22,27 +22,14 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@silviatofana(https://github.com/silviatofana)
+- GitHub: [@silviatofana](https://github.com/silviatofana)
 - Twitter: [@SilviaTofana](https://twitter.com/SilviaTofana)
-- LinkedIn: [www.linkedin.com/in/silvia-tofana-10b852186)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/silvia-tofana-10b852186)
 
 
 
@@ -50,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/silviatofana/Hello-world-from-Microverse/issues).
 
 ## Show your support
 
